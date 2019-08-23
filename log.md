@@ -24,9 +24,21 @@
 
 **Thoughts**: Simple day, mainly just thinking how to apply tags and css to get the output that I wanted. I am still proud of my progress.
 
-**Link(s) to work**: 
+**Link(s) to work**:
 
 1. [Tribute page](https://t.co/Ts6VKZB9LO?amp=1)
 2. [Survey Form](https://codepen.io/semyers189/pen/XWrpKMY)
 
 **Link to today's tweet**: [Here](https://twitter.com/scmyers02/status/1164588481156440065?s=20)
+
+### Day 1: August 23, Friday
+
+**Today's Progress**: Finished the Survey form on FCC and began on the javascript algorithms certification.
+
+**Thoughts**: Another simple day, FCC starts out pretty slow, but it will start picking up later down the line
+
+**Link(s) to work**:
+
+1. [Survey Form](https://codepen.io/semyers189/pen/XWrpKMY)
+
+**Link to today's tweet**: [Here](https://twitter.com/scmyers02/status/1164893994855424000?s=20)
