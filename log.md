@@ -31,7 +31,7 @@
 
 **Link to today's tweet**: [Here](https://twitter.com/scmyers02/status/1164588481156440065?s=20)
 
-### Day 1: August 23, Friday
+### Day 2: August 23, Friday
 
 **Today's Progress**: Finished the Survey form on FCC and began on the javascript algorithms certification.
 
@@ -42,3 +42,15 @@
 1. [Survey Form](https://codepen.io/semyers189/pen/XWrpKMY)
 
 **Link to today's tweet**: [Here](https://twitter.com/scmyers02/status/1164893994855424000?s=20)
+
+### Day 3: August 24, Saturday
+
+**Today's Progress**: Completed the Product Landing Page for FCC. Basically memorized flex box considering how often I went to the page
+
+**Thoughts**: I did spend 3 hours on this, which was surprising, but I did enjoy thinking of ways to use what I already knew before starting this. I did look up how to do stuff often, but more of it was just me double checking my knowledge.
+
+**Link(s) to work**:
+
+1. [Product Landing Page](https://t.co/mpswS1X1XY?amp=1)
+
+**Link to today's tweet**: [Here](https://twitter.com/scmyers02/status/1165309728785932288?s=20)
