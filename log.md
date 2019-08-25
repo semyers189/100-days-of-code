@@ -54,3 +54,25 @@
 1. [Product Landing Page](https://t.co/mpswS1X1XY?amp=1)
 
 **Link to today's tweet**: [Here](https://twitter.com/scmyers02/status/1165309728785932288?s=20)
+
+### Day 4: August 25, Sunday
+
+**Today's Progress**: Completed the Product Landing Page for FCC. Basically memorized flex box considering how often I went to the page
+
+**Thoughts**: I did spend 3 hours on this, which was surprising, but I did enjoy thinking of ways to use what I already knew before starting this. I did look up how to do stuff often, but more of it was just me double checking my knowledge.
+
+**Link(s) to work**:
+
+1. [Product Landing Page](https://t.co/mpswS1X1XY?amp=1)
+
+**Link to today's tweet**: [Here](### Day 3: August 24, Saturday
+
+**Today's Progress**: Made good progress on the FCC's Basic Javascript section. I wish to finish this on my own time today so I can start on es6 section tomorrow
+
+**Thoughts**: Simple day, since I was simply going over stuff that I've already knew. there were a few things that I didn't know though, including the escape character \r the carriage return.
+
+**Link(s) to work**:
+
+1. N/A
+
+**Link to today's tweet**: [Here](https://twitter.com/scmyers02/status/1165309728785932288?s=20)
