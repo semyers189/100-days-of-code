@@ -65,14 +65,28 @@
 
 1. [Product Landing Page](https://t.co/mpswS1X1XY?amp=1)
 
-**Link to today's tweet**: [Here](### Day 3: August 24, Saturday
+**Link to today's tweet**: [Here](
 
-**Today's Progress**: Made good progress on the FCC's Basic Javascript section. I wish to finish this on my own time today so I can start on es6 section tomorrow
+### Day 5: August 26, Monday
 
-**Thoughts**: Simple day, since I was simply going over stuff that I've already knew. there were a few things that I didn't know though, including the escape character \r the carriage return.
+**Today's Progress**: Started on the technical documentation page on FCC. Only prepped some of the markup to check of a majority of the chests, I plan to start on the css tomorrow. Also did a few javascript challenges.
+
+**Thoughts**: Fun day
 
 **Link(s) to work**:
 
-1. N/A
+1. [Techincal Documentation Page](https://codepen.io/semyers189/pen/dybvqXy)
 
-**Link to today's tweet**: [Here](https://twitter.com/scmyers02/status/1165309728785932288?s=20)
+**Link to today's tweet**: [Here](https://twitter.com/scmyers02/status/1165981072271781899?s=20)
+
+### Day 6: August 27, Tuesday
+
+**Today's Progress**: Continued working on the technical documentation page. Managed to complete the navbar and started adding content to the page. Also figured out how to do something cool with the code tags in css
+
+**Thoughts**: Great day, actually enjoyed trying to solve the problems that I came across. I hope to finish this project tomorrow so I can start on the portfolio page one, which im am going to do in my own editor
+
+**Link(s) to work**:
+
+1. [Techincal Documentation Page](https://codepen.io/semyers189/pen/dybvqXy)
+
+**Link to today's tweet**: [Here](https://twitter.com/scmyers02/status/1166517268999790592?s=20)
