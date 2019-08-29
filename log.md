@@ -90,3 +90,16 @@
 1. [Techincal Documentation Page](https://codepen.io/semyers189/pen/dybvqXy)
 
 **Link to today's tweet**: [Here](https://twitter.com/scmyers02/status/1166517268999790592?s=20)
+
+### Day 7: August 28, Wednesday
+
+**Today's Progress**: Finished up the technical documentation page. I opted to not go with a lot of css this time around, because I felt a plain look fitted what I had. I do want to go back and add more styling later on though. I also started on my personal portfolio.
+
+**Thoughts**: Fun day, I did spend most of my hour looking at resources though, so I was a bit dissatisfied with my progress, but it'll be fine. I do want to go above and beyond for my personal portfolio though, so I might design some stuff in adobe xd or figma before really starting.
+
+**Link(s) to work**:
+
+1. [Techincal Documentation Page](https://codepen.io/semyers189/pen/dybvqXy)
+2. [Personal Portfolio](https://github.com/semyers189/portfolio)
+
+**Link to today's tweet**: [Here](https://twitter.com/scmyers02/status/1166900648677392385?s=20)
