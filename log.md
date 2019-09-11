@@ -103,3 +103,43 @@
 2. [Personal Portfolio](https://github.com/semyers189/portfolio)
 
 **Link to today's tweet**: [Here](https://twitter.com/scmyers02/status/1166900648677392385?s=20)
+
+### Day 8: August 29, Thursday
+
+**Today's Progress**: Continued working on my portfolio page. Today, I just made sure passed as many of the tests I could before going wild. I chose a color scheme and got almost all of the markup done.
+
+**Thoughts**: Fun day, really exited to be working on this project, since I can customize it like I want to. For now, I'm going to go with something simple, but I definitly want to expand on it later, maybe even changing it to react or whatever else I happen to be learning
+
+**Link(s) to work**:
+
+2. [Personal Portfolio Github](https://github.com/semyers189/portfolio)
+
+3. [Personal Portfolio](https://semyers189.github.io/portfolio/)
+
+**Link to today's tweet**: [Here]()
+
+### Took a break because I was afraid of a hurricane
+
+### Day 9: September 9, Monday
+
+**Today's Progress**: Worked through the javascript algorithm certification on freecode camp. I do move a bit slower through the code while streaming.
+
+**Thoughts**: I take more time on each challenge since I'm explaining my thought process out loud. While this is a bit slower than the speed I usually go at, I do end up remembering what I've learned, which is helpful
+
+**Link(s) to work**:
+
+2. ![na](https://cdn.discordapp.com/attachments/614824908652019738/620814816189218829/hZft9Z804ArULdFNfkxPzT7XeyOpGOV8HTYJsAJ1S9zT9I3ssodQmQHm58nSGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCC.png)
+
+**Link to today's tweet**: [Here]()
+
+### Day 10: September 10, Tuesday
+
+**Today's Progress**: Finished up the javascript section of challenges. I also made some headway into the es6 challenges as well
+
+**Thoughts**: Finally getting into more familiar territory with the es6 challenges. That said there are a few things that I didn't know. Thinking aloud does help with that though, so I can pick up on that stuff easier.
+
+**Link(s) to work**:
+
+2. ![FreeCodeCamp Profile](https://www.freecodecamp.org/shannon189)
+
+**Link to today's tweet**: [Here]()
