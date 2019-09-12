@@ -112,9 +112,9 @@
 
 **Link(s) to work**:
 
-2. [Personal Portfolio Github](https://github.com/semyers189/portfolio)
+1. [Personal Portfolio Github](https://github.com/semyers189/portfolio)
 
-3. [Personal Portfolio](https://semyers189.github.io/portfolio/)
+2. [Personal Portfolio](https://semyers189.github.io/portfolio/)
 
 **Link to today's tweet**: [Here]()
 
@@ -128,7 +128,7 @@
 
 **Link(s) to work**:
 
-2. ![na](https://cdn.discordapp.com/attachments/614824908652019738/620814816189218829/hZft9Z804ArULdFNfkxPzT7XeyOpGOV8HTYJsAJ1S9zT9I3ssodQmQHm58nSGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCC.png)
+1. ![na](https://cdn.discordapp.com/attachments/614824908652019738/620814816189218829/hZft9Z804ArULdFNfkxPzT7XeyOpGOV8HTYJsAJ1S9zT9I3ssodQmQHm58nSGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCC.png)
 
 **Link to today's tweet**: [Here]()
 
@@ -140,6 +140,18 @@
 
 **Link(s) to work**:
 
-2. ![FreeCodeCamp Profile](https://www.freecodecamp.org/shannon189)
+1. ![FreeCodeCamp Profile](https://www.freecodecamp.org/shannon189)
+
+**Link to today's tweet**: [Here]()
+
+### Day 11: September 11, Wednesday
+
+**Today's Progress**: Decided to not work on the freecodecamp challenges. Wanted to work on my portfolio and make it better. I did manage to add browsersync, gulp, and sass to my project, which is pretty cool.
+
+**Thoughts**: Even though I didn't get started on my portfolio, I still felt like I learned a lot this time. Again, listening to myself outloud is very helpful, and even though I missed simple things that I spent half an hour trying to find, it was a good learning experience.
+
+**Link(s) to work**:
+
+1. [Portfolio Github](https://github.com/semyers189/portfolio)
 
 **Link to today's tweet**: [Here]()
