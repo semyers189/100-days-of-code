@@ -155,3 +155,15 @@
 1. [Portfolio Github](https://github.com/semyers189/portfolio)
 
 **Link to today's tweet**: [Here]()
+
+### Day 12: September 12, Thursday
+
+**Today's Progress**: Now that gulp was setup for scss, I migrated the css files i had to the scss files and separated them up into modules and changed the syntax into the proper scss way.
+
+**Thoughts**: Did not do a lot today since I'm not to sure on what I wanted to do with the contact section of my portfolio. I'm probably going to take some time outside of this to see what I want my portfolio in it's entirety to look like so I can quickly write out the css for that.
+
+**Link(s) to work**:
+
+1. [Portfolio Github](https://github.com/semyers189/portfolio)
+
+**Link to today's tweet**: [Here]()
