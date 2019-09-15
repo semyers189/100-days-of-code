@@ -153,6 +153,7 @@
 **Link(s) to work**:
 
 1. [Portfolio Github](https://github.com/semyers189/portfolio)
+2. [Link to github pages](https://semyers189.github.io/portfolio/)
 
 **Link to today's tweet**: [Here]()
 
@@ -165,5 +166,19 @@
 **Link(s) to work**:
 
 1. [Portfolio Github](https://github.com/semyers189/portfolio)
+2. [Link to github pages](https://semyers189.github.io/portfolio/)
+
+**Link to today's tweet**: [Here]()
+
+### Day 13: September 13, Thursday (did on Sunday)
+
+**Today's Progress**: Mainly spent the day messing around with CSS for my portfolio. Changed the footer styling, added a bit more the the welcome section, and added a bit of content to the projects section.
+
+**Thoughts**: Didn't do a lot today because when I think outloud I tend to code at a slower pace. But I am having fun with this.
+
+**Link(s) to work**:
+
+1. [Portfolio Github](https://github.com/semyers189/portfolio)
+2. [Link to github pages](https://semyers189.github.io/portfolio/)
 
 **Link to today's tweet**: [Here]()
